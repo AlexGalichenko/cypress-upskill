@@ -1,0 +1,21 @@
+{
+  "name": "cypress-upskill",
+  "version": "1.0.0",
+  "description": "demo project for cypress upskill",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexGalichenko/cypress-upskill.git"
+  },
+  "author": "Alexander Galichenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexGalichenko/cypress-upskill/issues"
+  },
+  "homepage": "https://github.com/AlexGalichenko/cypress-upskill#readme",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}
